@@ -1,0 +1,5 @@
+***LINE:4 Missing ';' before 'read'
+***LINE:6 Expected 'else', but found ';'
+***LINE:7 Expected a valid statement
+***LINE:7 Expected 'end', but found 'else'
+***LINE:8 Extra content after 'end'
